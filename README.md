@@ -14,7 +14,7 @@ Predict whether a credit card application is **approved (+)** or **rejected (-)*
 - **Split:** stratified 80/20, `random_state=11` → 552 train / 138 test rows. Hyperparameters were chosen by 5-fold stratified CV (scoring = ROC-AUC) on the training portion only; the test set was used once for the final numbers.
 
 ## c. GitHub repository link
-<PASTE YOUR GITHUB REPO URL HERE>
+https://github.com/debabghosh21/Credit_Approval_Classification
 
 Live app: http://localhost:8501/
 
