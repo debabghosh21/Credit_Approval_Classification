@@ -16,7 +16,7 @@ Predict whether a credit card application is **approved (+)** or **rejected (-)*
 ## c. GitHub repository link
 https://github.com/debabghosh21/Credit_Approval_Classification
 
-Live app: http://localhost:8501/
+Live app: http://localhost:8501/ or https://creditapprovalclassification-fr8wnmpsmtmeezb3pxn2af.streamlit.app/
 
 ## d. Models used
 
